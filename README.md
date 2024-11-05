@@ -15,12 +15,15 @@ Objetivo específico:
 
 
 
+
+
 1. ¿Qué hace?
 
 El proyecto es un supermercado virtual enfocado en ofrecer productos exclusivamente disponibles en los supermercados de San Antonio de Prado. La plataforma permite a los usuarios explorar y comprar productos de manera rápida y conveniente, replicando la experiencia de compra en línea. Los usuarios pueden ver categorías de productos, revisar detalles, agregar artículos a un carrito de compras y proceder al pago. La plataforma está diseñada para facilitar la búsqueda de productos locales y apoyar a los comercios específicos de la comunidad.
 
 
 3. ¿Cómo se hizo? (Arquitectura y tecnologías empleadas)
+
 •	Frontend:
 La interfaz de usuario se diseñó utilizando HTML para estructurar el contenido y CSS para estilizar la apariencia visual. HTML define la disposición básica de las páginas, con secciones específicas para categorías, productos y el carrito de compras. CSS se emplea para crear un diseño atractivo y funcional, mejorando la experiencia del usuario con estilos personalizados.
 
